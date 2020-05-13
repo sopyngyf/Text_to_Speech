@@ -5,7 +5,7 @@ from gtts import gTTS
 import os
 
 # The text you want to convert to audio
-mytext = 'Offset printing prints background design indirectly onto the pages of genuine travel documents. Such method results in smooth, uniform image without embossment. Most importantly, when viewed under the magnifier, good quality, high-resolution print can be observed'
+mytext = 'Replace this chunk with your desired text'
 
 # Language you want to convert the audio to
 language = 'en-UK'
