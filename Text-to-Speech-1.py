@@ -25,3 +25,5 @@ myobj.save("Test1.mp3")
 
 # Playing the converted file
 os.system("mpg321 Test1.mp3")
+
+# Press Cmd b to run!
